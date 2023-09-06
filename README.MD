@@ -1,3 +1,4 @@
+# Ref from: https://www.youtube.com/watch?v=5fb2aPlgoys
 # Quote Generator
 
 ![picture 0](images/932ec507f968a122d5045037ebe6cd51229d7187712bb4f7e403ba93012de599.png)  
